@@ -52,7 +52,7 @@ public class FixedFifoCollection {
         String input = "";
         int inputResult = 0;
         LinkedList<Integer> intList = new LinkedList<Integer>();
-        int maxSize = 2;
+        int maxSize = 16;
 
         // main cycle
         while (true) {
