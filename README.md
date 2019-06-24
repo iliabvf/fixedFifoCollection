@@ -2,4 +2,4 @@
 
     1.git clone
     2.Open in IDEA
-    3.Run class FixedFifoCollection
+    3.Run class Main
